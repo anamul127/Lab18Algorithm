@@ -1,0 +1,7 @@
+c:\users\grand circus student\source\repos\Lab18Algorithm\Lab18Algorithm\bin\Debug\Lab18Algorithm.exe.config
+c:\users\grand circus student\source\repos\Lab18Algorithm\Lab18Algorithm\bin\Debug\Lab18Algorithm.exe
+c:\users\grand circus student\source\repos\Lab18Algorithm\Lab18Algorithm\bin\Debug\Lab18Algorithm.pdb
+c:\users\grand circus student\source\repos\Lab18Algorithm\Lab18Algorithm\obj\Debug\Lab18Algorithm.csprojResolveAssemblyReference.cache
+c:\users\grand circus student\source\repos\Lab18Algorithm\Lab18Algorithm\obj\Debug\Lab18Algorithm.csproj.CoreCompileInputs.cache
+c:\users\grand circus student\source\repos\Lab18Algorithm\Lab18Algorithm\obj\Debug\Lab18Algorithm.exe
+c:\users\grand circus student\source\repos\Lab18Algorithm\Lab18Algorithm\obj\Debug\Lab18Algorithm.pdb
